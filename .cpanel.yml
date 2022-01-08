@@ -1,5 +1,5 @@
- ---
- deployment;
-    tasks;
-      - export DEPLOYMENT-	/home/loveumbr/public_html/
-      - /bin/cp -a * $DEPLOYPATH 
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/cpanelUser/public_html/
+    - /bin/cp -R * $DEPLOYPATH
