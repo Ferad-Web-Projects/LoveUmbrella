@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../LUN"
+		},
+		{
+			"path": "../3/LoveUmbrella 1"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "LUN2"
+	}
+}
