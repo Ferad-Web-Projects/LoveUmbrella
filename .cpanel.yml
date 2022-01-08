@@ -1,0 +1,5 @@
+ ---
+ deployment;
+    tasks;
+      - export DEPLOYMENT-	/home/loveumbr/public_html/
+      - /bin/cp -a * $DEPLOYPATH 
