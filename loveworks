@@ -1,9 +1,21 @@
-<mxfile host="app.diagrams.net" modified="2022-04-20T14:01:44.300Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="82GwJIHtTJVoEdIsl15q" version="17.4.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-20T17:44:38.714Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="7fpfBuYgU8fXjVqsfezF" version="17.4.5" type="github" pages="2">
   <diagram id="-xFXx4oWggWnqtR5L-Va" name="Page-2">
-    <mxGraphModel dx="2111" dy="1988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2531" dy="2133" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="UNKMEl644koA-g2OjphQ-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.538;entryY=0.004;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=10;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="339.0344827586209" y="703" as="sourcePoint" />
+            <mxPoint x="340.03999999999996" y="740.52" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UNKMEl644koA-g2OjphQ-74" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#E1D5E7;" vertex="1" parent="1">
+          <mxGeometry x="19.5" y="533" width="631" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="UNKMEl644koA-g2OjphQ-99" value="&lt;div&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Solution Insights&lt;/b&gt;:&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;Volunteers, Advisors or other other Users comment solutions or invited to invited to provide solution.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;At least one insight selected as a valid/feasible model solution to move forward&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;Description&amp;nbsp;&lt;/b&gt;&lt;span&gt;- - &amp;gt; &lt;/span&gt;&lt;b&gt;&lt;i&gt;Category,&amp;nbsp; &amp;nbsp; &amp;nbsp;Location,&amp;nbsp; &amp;nbsp; &amp;nbsp; Impact Range,&amp;nbsp; &amp;nbsp;Cost Range ,&amp;nbsp; *Status&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&amp;nbsp; &amp;nbsp;Related&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="24" y="528.88" width="580" height="100" as="geometry" />
+        </mxCell>
         <mxCell id="UNKMEl644koA-g2OjphQ-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.51;entryY=-0.02;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=10;" edge="1" parent="1" source="UNKMEl644koA-g2OjphQ-28">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="335.1999999999998" y="318" as="targetPoint" />
@@ -13,24 +25,19 @@
           <mxGeometry x="19" y="110" width="631" height="170" as="geometry" />
         </mxCell>
         <mxCell id="UNKMEl644koA-g2OjphQ-1" value="&lt;b&gt;IGLOW Hub&lt;/b&gt; is a community platform&amp;nbsp; for identifying&amp;nbsp; problem, documenting solutions&lt;br&gt;and collaborating on projects&amp;nbsp; for implementation by individuals and organizations for&lt;br&gt;the purpose of social impact.&lt;br&gt;&lt;br&gt;Goals: &lt;br&gt;1) To create a platform for social interactions for problem listing, ideal/solution prescribing&lt;br&gt;and project proposal/implementation and monitoring/accountability." style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-150" y="-50" width="490" height="100" as="geometry" />
+          <mxGeometry x="-170" y="-110" width="490" height="100" as="geometry" />
         </mxCell>
         <mxCell id="UNKMEl644koA-g2OjphQ-19" value="" style="whiteSpace=wrap;html=1;fillColor=#FFFF99;" vertex="1" parent="1">
-          <mxGeometry x="-135" y="180" width="55" height="30" as="geometry" />
+          <mxGeometry x="-200" y="110" width="120" height="170" as="geometry" />
         </mxCell>
         <mxCell id="UNKMEl644koA-g2OjphQ-20" value="&lt;b&gt;USERS&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-142.5" y="150" width="60" height="20" as="geometry" />
+          <mxGeometry x="-210" y="40" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="UNKMEl644koA-g2OjphQ-21" value="&lt;font style=&quot;font-size: 18px&quot;&gt;IGLOW HUB&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="22.5" y="-80" width="120" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="UNKMEl644koA-g2OjphQ-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="UNKMEl644koA-g2OjphQ-22">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="10" y="195" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="2.5" y="-140" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="UNKMEl644koA-g2OjphQ-22" value="Initiator" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-132.5" y="185" width="50" height="20" as="geometry" />
+          <mxGeometry x="-200" y="178" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="UNKMEl644koA-g2OjphQ-23" value="&lt;div&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Problem&lt;/b&gt;s:&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;text-align: left ; font-size: 12px&quot;&gt;Initiator reports problem observed in a community, by creating a post (problem)&amp;nbsp;&lt;/font&gt;&lt;font style=&quot;text-align: left ; font-size: 12px&quot;&gt;for archiving&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;text-align: left ; font-size: 12px&quot;&gt;and to seek solutions&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;Description&amp;nbsp;&lt;/b&gt;&lt;span&gt;- - &amp;gt; &lt;/span&gt;&lt;b&gt;&lt;i&gt;Category,&amp;nbsp; &amp;nbsp; &amp;nbsp;Location,&amp;nbsp; &amp;nbsp; &amp;nbsp; Impact Range,&amp;nbsp; &amp;nbsp;Cost Range ,&amp;nbsp; *Status&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&amp;nbsp; &amp;nbsp;Related&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="16" y="107" width="620" height="100" as="geometry" />
@@ -53,12 +60,6 @@
         <mxCell id="UNKMEl644koA-g2OjphQ-33" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Problems&lt;br&gt;Solutions&lt;br&gt;Region Issues&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="540" y="198" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="UNKMEl644koA-g2OjphQ-34" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/business-and-finance-20/200/vector_65_10-128.png;fontSize=10;fillColor=#FFFF99;" vertex="1" parent="1">
-          <mxGeometry x="-260" y="330" width="33" height="33" as="geometry" />
-        </mxCell>
-        <mxCell id="UNKMEl644koA-g2OjphQ-36" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/success-filloutline/64/idea-read-knowledge-light_bulb-thinking-128.png;fontSize=10;fillColor=#FFFF99;" vertex="1" parent="1">
-          <mxGeometry x="-310" y="303" width="20" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="UNKMEl644koA-g2OjphQ-37" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.misc.rating;strokeColor=#999999;fillColor=#ffff00;emptyFillColor=#ffffff;grade=4;ratingScale=5;ratingStyle=star;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="373" y="124" width="110" height="10" as="geometry" />
         </mxCell>
@@ -71,11 +72,13 @@
         <mxCell id="UNKMEl644koA-g2OjphQ-42" value="" style="image;html=1;image=img/lib/clip_art/general/Earth_globe_128x128.png;fontSize=10;fillColor=#FFFF99;" vertex="1" parent="1">
           <mxGeometry x="206" y="165" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="UNKMEl644koA-g2OjphQ-43" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/search-outline-24-px/24/maps_and_location_earth_grid_world_grid_planet_earth_searching-128.png;fontSize=10;fillColor=#FFFF99;" vertex="1" parent="1">
-          <mxGeometry x="140" y="165" width="20" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="UNKMEl644koA-g2OjphQ-44" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#FF0000;shape=mxgraph.azure.azure_alert;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="292.16" y="119.5" width="18.84" height="17.5" as="geometry" />
+          <mxGeometry x="290.16" y="119.5" width="18.84" height="17.5" as="geometry" />
+        </mxCell>
+        <mxCell id="UNKMEl644koA-g2OjphQ-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="UNKMEl644koA-g2OjphQ-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="339" y="530" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="UNKMEl644koA-g2OjphQ-45" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#FFFF99;" vertex="1" parent="1">
           <mxGeometry x="22" y="323" width="631" height="170" as="geometry" />
@@ -92,7 +95,7 @@
         <mxCell id="UNKMEl644koA-g2OjphQ-50" value="&lt;span style=&quot;font-size: 10px&quot;&gt;&amp;gt; 1000rmb&lt;br&gt;&amp;gt; 100,000&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="357" y="421" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UNKMEl644koA-g2OjphQ-51" value="&lt;span style=&quot;font-size: 10px&quot;&gt;Awaiting Approval&lt;br&gt;*Approved&lt;br&gt;Urgency/Rating&lt;br&gt;Open for Support&lt;br&gt;Project&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="UNKMEl644koA-g2OjphQ-51" value="&lt;span style=&quot;font-size: 10px&quot;&gt;Awaiting Approval&lt;br&gt;*Approved&lt;br&gt;*Urgency/Rating&lt;br&gt;Open for Support&lt;br&gt;Project&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="436" y="411" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UNKMEl644koA-g2OjphQ-52" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Problems&lt;br&gt;Solutions&lt;br&gt;Region Issues&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
@@ -101,29 +104,92 @@
         <mxCell id="UNKMEl644koA-g2OjphQ-53" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.misc.rating;strokeColor=#999999;fillColor=#ffff00;emptyFillColor=#ffffff;grade=4;ratingScale=5;ratingStyle=star;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="423" y="336.25" width="110" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="UNKMEl644koA-g2OjphQ-54" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.user;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="453.49" y="373" width="11.03" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="UNKMEl644koA-g2OjphQ-55" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.misc.rating;strokeColor=#999999;fillColor=#ffff00;emptyFillColor=#ffffff;grade=4;ratingScale=5;ratingStyle=star;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="274" y="383" width="110" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="UNKMEl644koA-g2OjphQ-56" value="" style="image;html=1;image=img/lib/clip_art/general/Earth_globe_128x128.png;fontSize=10;fillColor=#FFFF99;" vertex="1" parent="1">
-          <mxGeometry x="209" y="378" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="UNKMEl644koA-g2OjphQ-57" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/search-outline-24-px/24/maps_and_location_earth_grid_world_grid_planet_earth_searching-128.png;fontSize=10;fillColor=#FFFF99;" vertex="1" parent="1">
-          <mxGeometry x="149" y="378" width="20" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="UNKMEl644koA-g2OjphQ-58" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00CC00;shape=mxgraph.azure.azure_alert;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="260.16" y="332.5" width="18.84" height="17.5" as="geometry" />
         </mxCell>
-        <mxCell id="UNKMEl644koA-g2OjphQ-68" value="" style="whiteSpace=wrap;html=1;fillColor=#FFFF99;" vertex="1" parent="1">
-          <mxGeometry x="-140" y="383" width="55" height="30" as="geometry" />
+        <mxCell id="UNKMEl644koA-g2OjphQ-75" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Jobs&lt;br&gt;Hunger&lt;br&gt;SDGs&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="125.5" y="631" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="UNKMEl644koA-g2OjphQ-69" value="Admin" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-137.5" y="388" width="50" height="20" as="geometry" />
+        <mxCell id="UNKMEl644koA-g2OjphQ-76" value="&lt;span style=&quot;font-size: 10px&quot;&gt;Communiity, &lt;br&gt;Country, &lt;br&gt;Continent&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="175.5" y="631" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="UNKMEl644koA-g2OjphQ-71" value="&lt;div&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Approved Problem&lt;/b&gt;s:&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;The Admin (platform admins, volunteers or advisors) checks the problems and decides the status and other details&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;Description&amp;nbsp;&lt;/b&gt;&lt;span&gt;- - &amp;gt; &lt;/span&gt;&lt;b&gt;&lt;i&gt;Category,&amp;nbsp; &amp;nbsp; &amp;nbsp;Location,&amp;nbsp; &amp;nbsp; &amp;nbsp; Impact Range,&amp;nbsp; &amp;nbsp;Cost Range ,&amp;nbsp; *Status&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&amp;nbsp; &amp;nbsp;Related&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="UNKMEl644koA-g2OjphQ-77" value="&lt;span style=&quot;font-size: 10px&quot;&gt;&amp;gt; 100 people&lt;br&gt;100-1000&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="260.5" y="634" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UNKMEl644koA-g2OjphQ-78" value="&lt;span style=&quot;font-size: 10px&quot;&gt;&amp;gt; 1000rmb&lt;br&gt;&amp;gt; 100,000&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="354.5" y="631" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UNKMEl644koA-g2OjphQ-79" value="&lt;span style=&quot;font-size: 10px&quot;&gt;Awaiting Approval&lt;br&gt;*Approved&lt;br&gt;*Urgency/Rating&lt;br&gt;*Open for Support&lt;br&gt;Project&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="433.5" y="621" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UNKMEl644koA-g2OjphQ-80" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Problems&lt;br&gt;Solutions&lt;br&gt;Region Issues&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="540.5" y="621" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UNKMEl644koA-g2OjphQ-81" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.misc.rating;strokeColor=#999999;fillColor=#ffff00;emptyFillColor=#ffffff;grade=4;ratingScale=5;ratingStyle=star;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="397.5" y="548.25" width="110" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="UNKMEl644koA-g2OjphQ-94" value="&lt;div&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Approved Problem&lt;/b&gt;s:&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;The Admin (platform admins, volunteers or advisors) checks the problems and decides the status and other details&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;Description&amp;nbsp;&lt;/b&gt;&lt;span&gt;- - &amp;gt; &lt;/span&gt;&lt;b&gt;&lt;i&gt;Category,&amp;nbsp; &amp;nbsp; &amp;nbsp;Location,&amp;nbsp; &amp;nbsp; &amp;nbsp; Impact Range,&amp;nbsp; &amp;nbsp;Cost Range ,&amp;nbsp; *Status&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&amp;nbsp; &amp;nbsp;Related&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="25" y="320" width="620" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="UNKMEl644koA-g2OjphQ-96" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#FF0000;shape=mxgraph.azure.azure_alert;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="660" y="110" width="43.06" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UNKMEl644koA-g2OjphQ-97" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00FF00;shape=mxgraph.azure.azure_alert;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="660" y="320" width="43.06" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UNKMEl644koA-g2OjphQ-98" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/business-and-finance-20/200/vector_65_10-128.png;fontSize=10;fillColor=#FFFF99;" vertex="1" parent="1">
+          <mxGeometry x="653" y="744.87" width="56.75" height="56.75" as="geometry" />
+        </mxCell>
+        <mxCell id="UNKMEl644koA-g2OjphQ-103" value="&lt;b&gt;POSTS: posts, comments, proposal&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="16" y="40" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UNKMEl644koA-g2OjphQ-104" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.alarm;fillColor=#759C3E;gradientColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="138.82" y="162" width="16.36" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UNKMEl644koA-g2OjphQ-106" value="For Approval by Admin" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="330.5" y="290" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UNKMEl644koA-g2OjphQ-107" value="Inviting potential Advisors/Volunteers and general public for insight/solution/strategy" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="340" y="498.88" width="380" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UNKMEl644koA-g2OjphQ-108" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#E1D5E7;" vertex="1" parent="1">
+          <mxGeometry x="22" y="743.12" width="631" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="UNKMEl644koA-g2OjphQ-109" value="&lt;div&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Solutions&lt;/b&gt;:&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;Volunteers, Advisors or other other Users can propose or invited to propose solutions to the problems&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;Description&amp;nbsp;&lt;/b&gt;&lt;span&gt;- - &amp;gt; &lt;/span&gt;&lt;b&gt;&lt;i&gt;Category,&amp;nbsp; &amp;nbsp; &amp;nbsp;Location,&amp;nbsp; &amp;nbsp; &amp;nbsp; Impact Range,&amp;nbsp; &amp;nbsp;Cost Range ,&amp;nbsp; *Status&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&amp;nbsp; &amp;nbsp;Related&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="24" y="740.12" width="580" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="UNKMEl644koA-g2OjphQ-110" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Jobs&lt;br&gt;Hunger&lt;br&gt;SDGs&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="128" y="841.12" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UNKMEl644koA-g2OjphQ-111" value="&lt;span style=&quot;font-size: 10px&quot;&gt;Communiity, &lt;br&gt;Country, &lt;br&gt;Continent&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="178" y="841.12" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UNKMEl644koA-g2OjphQ-112" value="&lt;span style=&quot;font-size: 10px&quot;&gt;&amp;gt; 100 people&lt;br&gt;100-1000&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="263" y="844.12" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UNKMEl644koA-g2OjphQ-113" value="&lt;span style=&quot;font-size: 10px&quot;&gt;&amp;gt; 1000rmb&lt;br&gt;&amp;gt; 100,000&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="357" y="841.12" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UNKMEl644koA-g2OjphQ-114" value="&lt;span style=&quot;font-size: 10px&quot;&gt;Awaiting Approval&lt;br&gt;*Approved&lt;br&gt;*Urgency/Rating&lt;br&gt;*Open for Support&lt;br&gt;Project&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="436" y="831.12" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UNKMEl644koA-g2OjphQ-115" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Problems&lt;br&gt;Solutions&lt;br&gt;Region Issues&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="543" y="831.12" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UNKMEl644koA-g2OjphQ-116" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.misc.rating;strokeColor=#999999;fillColor=#ffff00;emptyFillColor=#ffffff;grade=4;ratingScale=5;ratingStyle=star;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="381" y="756.37" width="110" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="UNKMEl644koA-g2OjphQ-117" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/business-and-finance-20/200/vector_65_10-128.png;fontSize=10;fillColor=#FFFF99;" vertex="1" parent="1">
+          <mxGeometry x="265.5" y="744.87" width="33" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="UNKMEl644koA-g2OjphQ-118" value="Inviting potential inst" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="340.5" y="710" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UNKMEl644koA-g2OjphQ-129" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/business-and-finance-20/200/vector_65_10-128.png;fontSize=10;fillColor=#00FF00;strokeColor=#00FF00;" vertex="1" parent="1">
+          <mxGeometry x="251" y="534" width="32" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="UNKMEl644koA-g2OjphQ-131" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/business-and-finance-20/200/vector_65_10-128.png;fontSize=10;fillColor=#FFFF99;" vertex="1" parent="1">
+          <mxGeometry x="653" y="528" width="56.75" height="56.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
