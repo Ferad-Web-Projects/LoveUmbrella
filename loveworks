@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-21T13:19:14.346Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="NfuD0FEO7Ogvgh01yi0J" version="17.4.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-04-21T17:25:03.414Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="J9vcVBxdLpDxuZQAxMFD" version="17.4.5" type="github" pages="3">
   <diagram id="-xFXx4oWggWnqtR5L-Va" name="Page-2">
-    <mxGraphModel dx="3197" dy="2359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3197" dy="2236" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -369,7 +369,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Page-1" id="f1b7ffb7-ca1e-a977-7cf5-a751b3c06c05">
-    <mxGraphModel dx="2485" dy="833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2485" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -486,11 +486,11 @@
         <mxCell id="n_X3mmLEupbGgXb1-2vL-63" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;post a problem&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;share an oppotunity&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;give freebies&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="130" y="130" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="n_X3mmLEupbGgXb1-2vL-65" value="&lt;b style=&quot;background-color: rgb(255 , 255 , 204)&quot;&gt;Submit&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="370" y="140" width="60" height="20" as="geometry" />
+        <mxCell id="n_X3mmLEupbGgXb1-2vL-65" value="&lt;span style=&quot;background-color: rgb(255 , 255 , 204)&quot;&gt;&lt;b&gt;Post &lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;(Problem/Opportunity)&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="350" y="140" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jC8pz27E8Sj6fJ_f54G5-25" value="1. Report a Problem&lt;br&gt;2. Submit an Opportunity&lt;br&gt;3.&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-445" y="35" width="150" height="50" as="geometry" />
+        <mxCell id="jC8pz27E8Sj6fJ_f54G5-25" value="1. Report a Problem&lt;br&gt;2. Submit an Opportunity&lt;br&gt;3. Solve a Problem&lt;br&gt;4. Find Opportunities" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-330" y="33" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
